@@ -1,7 +1,24 @@
-const txtEncriptar = document.getElementById('txtEncriptar');
-const txtNroEncriptar = document.getElementById('txtNroEncriptar');
-const txtRespuesta1 = document.getElementById('txtRespuesta1');
-const btnEncriptar = document.getElementById('btnEncriptar');
+const btnDirigirEncriptar = document.getElementById('btn-dirigir-encriptar');
+const inicio = document.getElementById('inicio');
+const vistaEncriptado = document.getElementById('vista-encriptado');
+
+btnDirigirEncriptar.addEventListener('click', () => {
+  inicio.classList.add('hide');
+  vistaEncriptado.classList.remove('hide');
+});
+
+const btnDirigirDesencriptar = document.getElementById('btn-dirigir-desencriptar');
+const vistaDesencriptado = document.getElementById('vista-desencriptado');
+
+btnDirigirDesencriptar.addEventListener('click', () => {
+  inicio.classList.add('hide');
+  vistaDesencriptado.classList.remove('hide');
+});
+
+const txtEncriptar = document.getElementById('input-palabra-encriptar');
+const txtNroEncriptar = document.getElementById('input-offset-encriptar');
+const txtRespuesta1 = document.getElementById('txt-resultado1');
+const btnEncriptar = document.getElementById('btn-encriptar');
 
 btnEncriptar.addEventListener('click', () => {
   const cadena = txtEncriptar.value;
@@ -14,25 +31,24 @@ btnEncriptar.addEventListener('click', () => {
   }
 });
 
-const btnSgte = document.getElementById('btnSgte');
-const inicio = document.getElementById('inicio');
-const primeraVista = document.getElementById('primeraVista');
+const btnSgteEncriptar = document.getElementById('btn-siguiente-encriptar');
+const mensajeEncriptado = document.getElementById('vista-mensaje-encriptado');
 
-btnSgte.addEventListener('click', () => {
+btnSgteEncriptar.addEventListener('click', () => {
   const cadena = txtEncriptar.value;
   const posicion = txtNroEncriptar.value;
   if (cadena.length > 0 && posicion.length > 0) {
-    inicio.classList.add('hide');
-    primeraVista.classList.remove('hide');
+    vistaEncriptado.classList.add('hide');
+    mensajeEncriptado.classList.remove('hide');
   } else {
     txtRespuesta1.innerHTML = 'TE FALTA ENCRIPTAR';
   }
 });
 
-const txtDesencriptar = document.getElementById('txtDesencriptar');
-const txtNroDesencriptar = document.getElementById('txtNroDesencriptar');
-const txtRespuesta2 = document.getElementById('txtRespuesta2');
-const btnDesencriptar = document.getElementById('btnDesencriptar');
+const txtDesencriptar = document.getElementById('input-palabra-desencriptar');
+const txtNroDesencriptar = document.getElementById('input-offset-desencriptar');
+const txtRespuesta2 = document.getElementById('txt-resultado2');
+const btnDesencriptar = document.getElementById('btn-desencriptar');
 
 btnDesencriptar.addEventListener('click', () => {
   const cadena = txtDesencriptar.value;
@@ -45,15 +61,15 @@ btnDesencriptar.addEventListener('click', () => {
   }
 });
 
-const btnFin = document.getElementById('btnFin');
-const segundaVista = document.getElementById('segundaVista');
+const btnSgtDescencriptar = document.getElementById('btn-siguiente-desencriptar');
+const mensajeDesencriptado = document.getElementById('vista-mensaje-desencriptado');
 
-btnFin.addEventListener('click', () => {
+btnSgtDescencriptar.addEventListener('click', () => {
   const cadena = txtDesencriptar.value;
   const posicion = txtNroDesencriptar.value;
   if (cadena.length > 0 && posicion.length > 0) {
-    primeraVista.classList.add('hide');
-    segundaVista.classList.remove('hide');
+    vistaDesencriptado.classList.add('hide');
+    mensajeDesencriptado.classList.remove('hide');
   } else {
     txtRespuesta2.innerHTML = 'TE FALTA DESENCRIPTAR';
   }
