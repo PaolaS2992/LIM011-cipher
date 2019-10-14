@@ -305,11 +305,11 @@ A continuación te presentamos los objetivos de aprendizaje de este proyecto. Re
 
 - [x] Uso de selectores del DOM.
 - [x] Manejo de eventos del DOM.
-- [x] Manipulación dinámica del DOM.
+- [ ] Manipulación dinámica del DOM.
 
 ### Javascript
 
-- [x] Manipulación de strings.
+- [ ] Manipulación de strings.
 - [x] Uso de condicionales (if-else | switch).
 - [x] Uso de bucles (for | do-while).	
 - [x] Uso de funciones (parámetros | argumentos | valor de retorno).
@@ -320,8 +320,8 @@ A continuación te presentamos los objetivos de aprendizaje de este proyecto. Re
 
 ### Git y GitHub
 - [x] Comandos de git (add | commit | pull | status | push).
-- [x] Manejo de repositorios de GitHub (clone | fork | gh-pages).
+- [ ] Manejo de repositorios de GitHub (clone | fork | gh-pages).
 
 ### Buenas prácticas de desarrollo
-- [x] Uso de identificadores descriptivos (Nomenclatura | Semántica).
+- [ ] Uso de identificadores descriptivos (Nomenclatura | Semántica).
 - [x] Uso de linter para seguir buenas prácticas (ESLINT).
