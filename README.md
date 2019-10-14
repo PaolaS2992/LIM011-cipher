@@ -320,7 +320,7 @@ A continuación te presentamos los objetivos de aprendizaje de este proyecto. Re
 
 ### Git y GitHub
 - [x] Comandos de git (add | commit | pull | status | push).
-- [x] Manejo de repositorios de GitHub (clone | fork | gh-pages).
+- [ ] Manejo de repositorios de GitHub (clone | fork | gh-pages).
 
 ### Buenas prácticas de desarrollo
 - [ ] Uso de identificadores descriptivos (Nomenclatura | Semántica).
