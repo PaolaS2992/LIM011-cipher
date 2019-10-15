@@ -5,7 +5,8 @@
 Mi proyecto se trata sobre generar un código de recuperación “de contraseñas” a partir de una palabra ingresada que solo el usuario conoce “Aquí se aplica el Encriptado”, y para validar que sea persona debe ingresar el código generado “Aquí se aplica el Des-encriptado”. Finalmente después de pasar esta validación “ERES TÚ” abrirá las puertas para permitir recuperar la contraseña.
 
 ## La imagen final de tu proyecto.
-[Falta imagen]
+
+![01](https://user-images.githubusercontent.com/53586047/66850891-4c160380-ef3f-11e9-89f4-c2080d75d307.png)
 
 ## Investigación UX:
 
@@ -19,13 +20,16 @@ Mi proyecto se trata sobre generar un código de recuperación “de contraseña
 Soluciona a ambos usuarios ya que permite la validación de la identidad del usuario para proceder con la recuperación de la contraseña y evitar suplantaciones o hackeo de cuentas.
 
 ### 3. Luego colocarás la foto de tu primer prototipo en papel.
-[Falta Imagen]
+
+![02](https://user-images.githubusercontent.com/53586047/66850942-6223c400-ef3f-11e9-9044-651a85e9ad0f.png)
+
 
 ### 4. Agregar un resumen del feedback recibido indicando las mejoras a realizar.
 Les pareció que se podía reemplazar la palabra offset por posiciones.
 
 ### 5. Imagen del prototipo final.
-[Falta imagen]
+
+![03](https://user-images.githubusercontent.com/53586047/66850954-66e87800-ef3f-11e9-82c7-f539f4aeaa07.png)
 
 ## Objetivos de aprendizaje Cipher
 
