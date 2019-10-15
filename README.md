@@ -2,31 +2,31 @@
 
 Debe contener lo siguiente:
 
-# Un título con el nombre de tu proyecto.
+## Un título con el nombre de tu proyecto.
 “ERES TÚ”
 
-* Un resumen de 1 o 2 líneas de qué se trata tu proyecto.
+## Un resumen de 1 o 2 líneas de qué se trata tu proyecto.
 Mi proyecto se trata sobre generar un código de recuperación “de contraseñas” a partir de una palabra ingresada que solo el usuario conoce “Aquí se aplica el Encriptado”, y para validar que sea persona debe ingresar el código generado “Aquí se aplica el Des-encriptado”. Finalmente después de pasar esta validación “ERES TÚ” abrirá las puertas para permitir recuperar la contraseña.
 
-* La imagen final de tu proyecto.
+## La imagen final de tu proyecto.
 [Falta imagen]
 
-* Investigación UX:
-  1. Explicar quiénes son los usuarios y los objetivos en relación con el
-    producto.
+## Investigación UX:
+
+### 1. Explicar quiénes son los usuarios y los objetivos en relación con el producto.
     A. Sistemas de Recuperación: Validación efectiva de los usuarios. A través de una palabra que solo el usuario conoce.
     B. Personas en General: Recuperación de su contraseña.
 
-  2. Explicar cómo el producto soluciona los problemas/necesidades de dichos
-    usuarios.
+### 2. Explicar cómo el producto soluciona los problemas/necesidades de dichos usuarios.
     Soluciona a ambos usuarios ya que permite la validación de la identidad del usuario para proceder con la recuperación de la contraseña y evitar suplantaciones o hackeo de cuentas.
 
-  3. Luego colocarás la foto de tu primer prototipo en papel.
+### 3. Luego colocarás la foto de tu primer prototipo en papel.
     [Falta Imagen]
-  4. Agregar un resumen del feedback recibido indicando las mejoras a realizar.
+
+### 4. Agregar un resumen del feedback recibido indicando las mejoras a realizar.
     Les pareció que se podía reemplazar la palabra offset por posiciones.
 
-  5. Imagen del prototipo final.
+### 5. Imagen del prototipo final.
     [Falta imagen]
 
 ## Objetivos de aprendizaje Cipher
