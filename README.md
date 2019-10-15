@@ -10,20 +10,22 @@ Mi proyecto se trata sobre generar un código de recuperación “de contraseña
 ## Investigación UX:
 
 ### 1. Explicar quiénes son los usuarios y los objetivos en relación con el producto.
-  #### A. Sistemas de Recuperación: Validación efectiva de los usuarios. A través de una palabra que solo el usuario conoce.
-  #### B. Personas en General: Recuperación de su contraseña.
+  #### A. Sistemas de Recuperación:
+  Validación efectiva de los usuarios. A través de una palabra que solo el usuario conoce.
+  #### B. Personas en General:
+  Recuperación de su contraseña.
 
 ### 2. Explicar cómo el producto soluciona los problemas/necesidades de dichos usuarios.
 Soluciona a ambos usuarios ya que permite la validación de la identidad del usuario para proceder con la recuperación de la contraseña y evitar suplantaciones o hackeo de cuentas.
 
 ### 3. Luego colocarás la foto de tu primer prototipo en papel.
-    [Falta Imagen]
+[Falta Imagen]
 
 ### 4. Agregar un resumen del feedback recibido indicando las mejoras a realizar.
-    Les pareció que se podía reemplazar la palabra offset por posiciones.
+Les pareció que se podía reemplazar la palabra offset por posiciones.
 
 ### 5. Imagen del prototipo final.
-    [Falta imagen]
+[Falta imagen]
 
 ## Objetivos de aprendizaje Cipher
 
