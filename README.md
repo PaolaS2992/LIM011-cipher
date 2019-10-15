@@ -10,8 +10,8 @@ Mi proyecto se trata sobre generar un código de recuperación “de contraseña
 ## Investigación UX:
 
 ### 1. Explicar quiénes son los usuarios y los objetivos en relación con el producto.
-  ## A. Sistemas de Recuperación: Validación efectiva de los usuarios. A través de una palabra que solo el usuario conoce.
-  ## B. Personas en General: Recuperación de su contraseña.
+  #### A. Sistemas de Recuperación: Validación efectiva de los usuarios. A través de una palabra que solo el usuario conoce.
+  #### B. Personas en General: Recuperación de su contraseña.
 
 ### 2. Explicar cómo el producto soluciona los problemas/necesidades de dichos usuarios.
 Soluciona a ambos usuarios ya que permite la validación de la identidad del usuario para proceder con la recuperación de la contraseña y evitar suplantaciones o hackeo de cuentas.
