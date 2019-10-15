@@ -1,37 +1,37 @@
-## Un título con el nombre de tu proyecto.
-“ERES TÚ”
+## Nombre del Proyecto.
+![Titulo](https://user-images.githubusercontent.com/53586047/66875990-be093f80-ef75-11e9-8228-c544cff0a2a8.png)
 
-## Un resumen de 1 o 2 líneas de qué se trata tu proyecto.
+## Un resumen.
 Mi proyecto se trata sobre generar un código de recuperación “de contraseñas” a partir de una palabra ingresada que solo el usuario conoce “Aquí se aplica el Encriptado”, y para validar que sea persona debe ingresar el código generado “Aquí se aplica el Des-encriptado”. Finalmente después de pasar esta validación “ERES TÚ” abrirá las puertas para permitir recuperar la contraseña.
 
-## La imagen final de tu proyecto.
+## La imagen.
 
-![01](https://user-images.githubusercontent.com/53586047/66850891-4c160380-ef3f-11e9-89f4-c2080d75d307.png)
+![01](https://user-images.githubusercontent.com/53586047/66875958-9619dc00-ef75-11e9-8740-aece75a3147e.png)
 
 ## Investigación UX:
 
-### 1. Explicar quiénes son los usuarios y los objetivos en relación con el producto.
+### 1. Objetivo en relación con el producto.
   #### A. Sistemas de Recuperación:
   Validación efectiva de los usuarios. A través de una palabra que solo el usuario conoce.
   #### B. Personas en General:
   Recuperación de su contraseña.
 
-### 2. Explicar cómo el producto soluciona los problemas/necesidades de dichos usuarios.
+### 2. Solución a los problemas/necesidades de los usuarios.
 Soluciona a ambos usuarios ya que permite la validación de la identidad del usuario para proceder con la recuperación de la contraseña y evitar suplantaciones o hackeo de cuentas.
 
-### 3. Luego colocarás la foto de tu primer prototipo en papel.
+### 3. Prototipo en papel.
 
-![02](https://user-images.githubusercontent.com/53586047/66850942-6223c400-ef3f-11e9-9044-651a85e9ad0f.png)
+![02](https://user-images.githubusercontent.com/53586047/66875976-acc03300-ef75-11e9-995f-6dbe05aa1869.png)
 
 
-### 4. Agregar un resumen del feedback recibido indicando las mejoras a realizar.
+### 4. Feedback de las mejoras a realizar.
 Les pareció que se podía reemplazar la palabra offset por posiciones.
 
-### 5. Imagen del prototipo final.
+### 5. Prototipo final.
 
-![03](https://user-images.githubusercontent.com/53586047/66850954-66e87800-ef3f-11e9-82c7-f539f4aeaa07.png)
+![03](https://user-images.githubusercontent.com/53586047/66875987-b9448b80-ef75-11e9-8683-0eb523c8cefb.png)
 
-## Objetivos de aprendizaje Cipher
+## Objetivos de aprendizaje:
 
 A continuación te presentamos los objetivos de aprendizaje de este proyecto. Reflexiona y luego marca los objetivos que has llegado a **entender** y **aplicar** en tu proyecto.
 
