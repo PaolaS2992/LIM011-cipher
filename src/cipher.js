@@ -24,11 +24,11 @@ window.cipher = {
     for (let i = 0; i < string.length; i += 1) {
       const codigoAscci = string.charCodeAt(i);
       if (codigoAscci >= 65 && codigoAscci <= 90) {
-        const nuevaPosicion = ((codigoAscci - 65 - offset + 26 * 2) % 26) + 65;
+        const nuevaPosicion = (((codigoAscci - 90) - offset) % 26) + 90;
         const stringEncriptado = String.fromCharCode(nuevaPosicion);
         resultadoDesencriptado += stringEncriptado;
       } else if (codigoAscci >= 97 && codigoAscci <= 122) {
-        const nuevaPosicion = ((codigoAscci - 97 - offset + 26 * 2) % 26) + 97;
+        const nuevaPosicion = (((codigoAscci - 122) - offset) % 26) + 122;
         const stringEncriptado = String.fromCharCode(nuevaPosicion);
         resultadoDesencriptado += stringEncriptado;
       } else {

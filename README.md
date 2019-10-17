@@ -1,4 +1,5 @@
 ## Nombre del Proyecto:
+
 ![Titulo](https://user-images.githubusercontent.com/53586047/66875990-be093f80-ef75-11e9-8228-c544cff0a2a8.png)
 
 ## Resumen:
@@ -23,13 +24,16 @@ Soluciona a ambos usuarios ya que permite la validación de la identidad del usu
 
 ![02](https://user-images.githubusercontent.com/53586047/66875976-acc03300-ef75-11e9-995f-6dbe05aa1869.png)
 
-
 ### 4. Feedback de las mejoras a realizar:
 Les pareció que se podía reemplazar la palabra offset por posiciones.
 
 ### 5. Prototipo final:
 
 ![03](https://user-images.githubusercontent.com/53586047/66875987-b9448b80-ef75-11e9-8683-0eb523c8cefb.png)
+
+## Desplegado gh-pages.
+
+https://paolas2992.github.io/LIM011-cipher/
 
 ## Objetivos de aprendizaje:
 
