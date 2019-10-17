@@ -1,13 +1,13 @@
 ## Nombre del Proyecto:
 
-![Titulo](https://user-images.githubusercontent.com/53586047/66875990-be093f80-ef75-11e9-8228-c544cff0a2a8.png)
+![Titulo](https://github.com/PaolaS2992/LIM011-cipher/blob/master/img/img-Readme/Titulo.png)
 
 ## Resumen:
 Mi proyecto se trata sobre generar un código de recuperación “de contraseñas” a partir de una palabra ingresada que solo el usuario conoce “Aquí se aplica el Encriptado”, y para validar que sea persona debe ingresar el código generado “Aquí se aplica el Des-encriptado”. Finalmente después de pasar esta validación “ERES TÚ” abrirá las puertas para permitir recuperar la contraseña.
 
 ## Imagen Principal:
 
-![01](https://user-images.githubusercontent.com/53586047/66875958-9619dc00-ef75-11e9-8740-aece75a3147e.png)
+![01](https://github.com/PaolaS2992/LIM011-cipher/blob/master/img/img-Readme/01.png)
 
 ## Investigación UX:
 
@@ -22,14 +22,14 @@ Soluciona a ambos usuarios ya que permite la validación de la identidad del usu
 
 ### 3. Prototipo en papel:
 
-![02](https://user-images.githubusercontent.com/53586047/66875976-acc03300-ef75-11e9-995f-6dbe05aa1869.png)
+![02](https://github.com/PaolaS2992/LIM011-cipher/blob/master/img/img-Readme/02.png)
 
 ### 4. Feedback de las mejoras a realizar:
 Les pareció que se podía reemplazar la palabra offset por posiciones.
 
 ### 5. Prototipo final:
 
-![03](https://user-images.githubusercontent.com/53586047/66875987-b9448b80-ef75-11e9-8683-0eb523c8cefb.png)
+![03](https://github.com/PaolaS2992/LIM011-cipher/blob/master/img/img-Readme/03.png)
 
 ## Desplegado gh-pages.
 
