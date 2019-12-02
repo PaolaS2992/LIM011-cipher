@@ -33,7 +33,7 @@ Les pareció que se podía reemplazar la palabra offset por posiciones.
 
 ## Desplegado gh-pages.
 
-https://paolas2992.github.io/LIM011-cipher/
+https://paolas2992.github.io/LIM011-cipher/src
 
 ## Objetivos de aprendizaje:
 
